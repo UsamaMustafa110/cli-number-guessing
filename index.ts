@@ -16,3 +16,5 @@ if (answer.UserGuessedNumber === randomNumber) {
 } else {
   console.log("Ah! your guess is not right, try again");
 }
+
+console.log("Thank You");
